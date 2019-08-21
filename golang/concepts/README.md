@@ -1,8 +1,9 @@
 *** 
 List of Concepts 
 ***
--[ ] Interface
--[ ] Pointers
--[ ] Slices
--[ ] Context package
--[ ] String package
+
+- [ ] Interface
+- [ ] Pointers
+- [ ] Slices
+- [ ] Context package
+- [ ] String package
