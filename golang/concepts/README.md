@@ -4,6 +4,6 @@ List of Concepts
 
 - [ ] Interface
 - [ ] Pointers
-- [ ] Slices
+- [x] Slices
 - [ ] Context package
 - [ ] String package

@@ -77,4 +77,10 @@ func main() {
 	fmt.Println(fmt.Sprintf("Print the values of slice %v", slice2))
 	fmt.Println(fmt.Sprintf("Print the slice length = %v and capacity %v", len(slice2), cap(slice2)))
 
+
+	b := make([]int, len(slice1))
+	b = append(slice[0:0], slice...)
+	fmt.Println(fmt.Sprintf("Print the values of slice %v", b))
+	fmt.Println(fmt.Sprintf("Print the values of slice %v", slice))
+
 }
