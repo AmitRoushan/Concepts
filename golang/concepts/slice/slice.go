@@ -39,7 +39,7 @@ func main() {
 	    }
 	*/
 	// check slice represent same array
-	fmt.Println(fmt.Sprintf("Print &array[1] = %v and &array[1] = %v", &array[1], &array[1]))
+	fmt.Println(fmt.Sprintf("Print &array[1] = %v and &slice[0] = %v", &array[1], &slice[0]))
 
 	// -> append functionality
 	// append increases len of slice with the number of element added
