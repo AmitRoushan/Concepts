@@ -53,3 +53,7 @@
 19. Create a pod with specified resource request and limit
 
 20. Create a namespace and create a pod in the namespace.
+
+21. Filter events based on deployment/pod/replicaset 
+
+22. Update service account in a deployment
